@@ -1,7 +1,7 @@
 const categoryMap = {
   "生态": ["Bitcoin", "Ethereum","Cardano","Polkadot","COSMOS","Solana","GameFi","NFT"],
   "系列": ["知识学习系列", "观点分享系列", "操作技巧系列", "安全知识系列", "PoS质押教程", "链上应用系列", "产品开箱测评", "社区资源系列"],
-  "标签": ["无时效性", "热门视频", "试听课"]
+  "标签": ["无时效性", "热门视频", "试听课", "古早视频"]
 };
   
 const videos = [
@@ -65,7 +65,7 @@ const videos = [
   { title: "Ledger钱包的新功能Ledger Recover深度分析，我们的Ledger还安全吗？", url: "7fVrC88vn0o", tags: ["安全知识系列"] },
   { title: "DePIN是什么？DePIN赛道的机遇与问题，我对几个DePIN老项目的优缺点分析", url: "7fyFkDuEXi4", tags: ["知识学习系列"] },
   { title: "12月14日Ledger冷钱包被盗事件始末，我的Ledger钱包还安全吗？", url: "XKJkneLSHwA", tags: ["安全知识系列"] },
-  { title: "牛市预防针！在加密货币牛市中亏钱的五大方法！你中了吗？", url: "jY3IWtzRusQ", tags: ["Bitcoin","观点分享系列"] },
+  { title: "牛市预防针！在加密货币牛市中亏钱的五大方法！你中了吗？", url: "jY3IWtzRusQ", tags: ["Bitcoin","观点分享系列","无时效性"] },
   { title: "用DappNode搭建节点质押的32ETH如何提取？以太坊验证者节点解除质押教程", url: "hLXcm0peSE0", tags: ["Ethereum","PoS质押教程"] },
   { title: "如何给比特币闪电网络节点增加通道？马上让你的闪电网络节点赚点路由费的经验分享", url: "MFwdzZI5HJg", tags: ["Bitcoin","操作技巧系列"] },
   { title: "如何在一台设备上运行多个ETH验证者节点（N x 32 ETH）？DAppNode上运行多个以太坊验证者节点的方法", url: "NUTofAVli30", tags: ["Ethereum","PoS质押教程"] },
@@ -73,5 +73,22 @@ const videos = [
   { title: "Polygon如何进行质押挖矿？年化收益6%-7%，POL的质押挖矿教学", url: "SIECy7djzZ8", tags: ["Ethereum","PoS质押教程"] },
   { title: "自己搭建以太坊质押节点系列教程之三：存入32ETH，启动验证者节点", url: "2VlrAeFlzZU", tags: ["Ethereum","PoS质押教程"] },
   { title: "自己搭建以太坊质押节点系列教程之二：DAppNode节点的安装和配置", url: "gLw2KXOe03o", tags: ["Ethereum","PoS质押教程"] },
-  { title: "自己搭建以太坊质押节点系列教程之一：设备选择及操作系统Ubuntu的安装和安全配置", url: "yLOjiTqvcOA", tags: ["Ethereum","PoS质押教程"] }
+  { title: "自己搭建以太坊质押节点系列教程之一：设备选择及操作系统Ubuntu的安装和安全配置", url: "yLOjiTqvcOA", tags: ["Ethereum","PoS质押教程"] },
+  { title: "快速理解什么是EVM？兼容EVM对一个公链来说意味着什么？", url: "tzCnDC8f43M", tags: ["Ethereum","知识学习系列","无时效性"] },
+  { title: "Kusama矿池质押挖矿教学，获取12%-16%年化收益。", url: "V2PA-ql5jrc", tags: ["Polkadot","PoS质押教程"] },
+  { title: "ADA质押挖矿新手懒人包：新人8大常见问题解答。", url: "fv1y2p34IHc", tags: ["Cardano","PoS质押教程","热门视频"] },
+  { title: "使用Ledger冷钱包质押波卡Polkadot教学视频。", url: "FuJ9xU3uHBg", tags: ["Polkadot","PoS质押教程"] },
+  { title: "波卡Polkadot质押挖矿选择验证者节点的终极奥义。DOT质押如何选择验证者节点？（进阶版）", url: "gAYYYUAPmxg", tags: ["Polkadot","PoS质押教程"] },
+  { title: "什么是零知识证明？零知识证明在区块链有什么用处？", url: "vV-bi_oluOk", tags: ["知识学习系列","无时效性"] },
+  { title: "波卡Polkadot加入提名者矿池质押挖矿教学视频，年化收益18% ", url: "R89ULpmipq0", tags: ["Polkadot","PoS质押教程"] },
+  { title: "Ledger硬件钱包如何连接Metamask？冷钱包如何连接小狐狸钱包参与以太坊上的应用生态？", url: "0nqkAEjm_DY", tags: ["Ethereum","操作技巧系列"] },
+  { title: "NFT是资金盘吗？为什么有的NFT项目可以暴涨百倍？读懂百倍NFT项目的背后逻辑", url: "wPpPyk5uRBw", tags: ["NFT","观点分享系列"] },
+  { title: "(旧版)COSMOS质押挖矿手把手演示教程，Atom币质押挖矿教程，如何质押挖矿Atom? ", url: "5Swr8zHjJtY", tags: ["COSMOS","PoS质押教程"] },
+  { title: "冷钱包ledger链接Yoroi质押ADA挖矿教程，如何使用硬件钱包ledger关联Yoroi进行Cardano的质押？", url: "1ULgqwQcI84", tags: ["Cardano","PoS质押教程","热门视频"] },
+  { title: "显卡挖矿的兄弟们，我的RTX3070、3080的显卡有新用途了", url: "HDlG7QZkRjg", tags: ["古早视频"] },
+  { title: "什么是加密货币钱包？一个视频认识所有加密货币钱包", url: "NZcJNQecovA", tags: ["知识学习系列","古早视频"] },
+  { title: "从“FTX”的陨落看中心化交易所的“七宗罪”，中心化交易所应不应该存在？", url: "vyY4_Wjh-FA", tags: ["观点分享系列","古早视频"] },
+  { title: "比特币能做到，其它资产做不到的5件事，比特币属于什么资产？为什么要投资比特币？", url: "y15aips8lSY", tags: ["Bitcoin","观点分享系列","古早视频"] },
+  { title: "Cardano质押挖矿最佳方案，ADA质押快速上手教程，Yoroi钱包质押ADA演示教程", url: "2zZIaKDFDOs", tags: ["Cardano","PoS质押教程","热门视频"] },
+  { title: "大懒猫Discord群开通了！欢迎所有爱好加密货币、爱好区块链技术的朋友们加入", url: "b0K1qaKHdvQ", tags: ["社区资源系列"] }
 ];
