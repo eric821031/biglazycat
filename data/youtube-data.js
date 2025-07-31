@@ -26,11 +26,11 @@ const videos = [
   { title: "怎么在Cardano的NFT平台JPG Store上更便宜的购买NFT？Snekkies NFT购买演示", url: "lQP7xz-5-N8", tags: ["Cardano","链上应用系列"] },
   { title: "Keystone冷钱包开箱，Keystone开箱初始化演示，我对Keystone冷钱包的第一印象", url: "gih5p_IZo_A", tags: ["产品开箱测评"] },
   { title: "冷钱包的资产被盗原因总结，只有这2个原因！", url: "aMy9I7O7_RM", tags: ["安全知识系列","无时效性","热门视频"] },
-  { title: "ETH的几种质押方式优缺点详细分析，自建节点，委托建节点，第三方质押，到底应该如何选择？", url: "iI-LmFy2PSU", tags: ["Ethereum","观点分享系列","PoS质押教程"] },
+  { title: "ETH的几种质押方式优缺点详细分析，自建节点，委托建节点，第三方质押，如何选择？", url: "iI-LmFy2PSU", tags: ["Ethereum","观点分享系列","PoS质押教程"] },
   { title: "Ledger冷钱包存储加密货币的方式详解，为什么我的eth转进Ledger去之后就看不到了？", url: "Vx4jZiOeUKw", tags: ["操作技巧系列","安全知识系列","无时效性","热门视频"] },
   { title: "Cardano生态的Uniswap！去中心化交易平台Minswap详细介绍", url: "RkgKamH36QU", tags: ["Cardano","链上应用系列"] },
   { title: "Cardano生态最好用的钱包Eternl介绍，用Eternl参与Cardano的链上生态", url: "jctmDeYVN2s", tags: ["Cardano","链上应用系列"] },
-  { title: "重要冷钱包知识。什么是真正的冷钱包？Ledger和Trezor可以互相导入吗？链接热钱包是怎么回事？", url: "5GKUXLEH5aA", tags: ["安全知识系列","无时效性"] },
+  { title: "什么是真正的冷钱包？Ledger和Trezor可以互相导入吗？链接热钱包是怎么回事？", url: "5GKUXLEH5aA", tags: ["安全知识系列","无时效性"] },
   { title: "ADA的质押收益为什么下降？Cardano质押收益的组成详解，APY下降的原因是什么？", url: "NlrfsyBjulw", tags: ["Cardano","知识学习系列","PoS质押教程"] },
   { title: "山寨币牛市来临！谈谈我对于币圈的财富自由的想法", url: "YYzQu__do5s", tags: ["观点分享系列","无时效性"] },
   { title: "牛市赢麻了！我可以辞职炒币吗？", url: "dVqlBaXvCI0", tags: ["观点分享系列","无时效性"] }
