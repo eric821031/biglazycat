@@ -21,7 +21,7 @@ const videos = [
   { title: "缺点未必是缺点！我对Cosmos的两大问题的看法", url: "Y3DW4IvkObg", tags: ["COSMOS","观点分享系列"] },
   { title: "Bybit被盗15亿事件链上数据分析！从链上可以看到哪些信息，我们从中可以得到什么启示", url: "EPBf-CPeo2s", tags: ["Ethereum","安全知识系列"] },
   { title: "一个视频认识COSMOS，一个价值被低估的生态", url: "DVgI6KolM5g", tags: ["COSMOS"] },
-  { title: "Keystone冷钱包深度测评，Keystone 3 Pro值不值得买？", url: "aaa", tags: ["产品开箱测评"] },
+  { title: "Keystone冷钱包深度测评，Keystone 3 Pro值不值得买？", url: "no9VYGv8fD4", tags: ["产品开箱测评"] },
   { title: "币价暴跌！保持心态的“五句真言”！", url: "SAFrE2U6Sqo", tags: ["观点分享系列","无时效性"] },
   { title: "怎么在Cardano的NFT平台JPG Store上更便宜的购买NFT？Snekkies NFT购买演示", url: "lQP7xz-5-N8", tags: ["Cardano","链上应用系列"] },
   { title: "Keystone冷钱包开箱，Keystone开箱初始化演示，我对Keystone冷钱包的第一印象", url: "gih5p_IZo_A", tags: ["产品开箱测评"] },
