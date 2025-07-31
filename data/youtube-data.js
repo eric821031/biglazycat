@@ -1,3 +1,8 @@
+const pageMeta = {
+  title: "Youtube频道——大懒猫挖矿",
+  header: "《大懒猫挖矿》视频分类检索"
+};
+
 const categoryMap = {
   "生态": ["Bitcoin", "Ethereum","Cardano","Polkadot","COSMOS","Solana","GameFi","NFT"],
   "系列": ["知识学习系列", "观点分享系列", "操作技巧系列", "安全知识系列", "PoS质押教程", "链上应用系列", "产品开箱测评", "社区资源系列"],
