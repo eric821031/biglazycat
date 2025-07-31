@@ -23,7 +23,7 @@ const videos = [
   { title: "一个视频认识COSMOS，一个价值被低估的生态", url: "DVgI6KolM5g", tags: ["COSMOS"] },
   { title: "Keystone冷钱包深度测评，Keystone 3 Pro值不值得买？", url: "no9VYGv8fD4", tags: ["产品开箱测评"] },
   { title: "币价暴跌！保持心态的“五句真言”！", url: "SAFrE2U6Sqo", tags: ["观点分享系列","无时效性"] },
-  { title: "怎么在Cardano的NFT平台JPG Store上更便宜的购买NFT？Snekkies NFT购买演示", url: "lQP7xz-5-N8", tags: ["Cardano","链上应用系列"] },
+  { title: "怎么在Cardano的NFT平台JPG Store上更便宜的购买NFT？Snekkies NFT购买演示", url: "lQP7xz-5-N8", tags: ["Cardano","NFT","链上应用系列"] },
   { title: "Keystone冷钱包开箱，Keystone开箱初始化演示，我对Keystone冷钱包的第一印象", url: "gih5p_IZo_A", tags: ["产品开箱测评"] },
   { title: "冷钱包的资产被盗原因总结，只有这2个原因！", url: "aMy9I7O7_RM", tags: ["安全知识系列","无时效性","热门视频"] },
   { title: "ETH的几种质押方式优缺点详细分析，自建节点，委托建节点，第三方质押，如何选择？", url: "iI-LmFy2PSU", tags: ["Ethereum","观点分享系列","PoS质押教程"] },
