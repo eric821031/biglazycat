@@ -1,6 +1,6 @@
 const categoryMap = {
-  "生态": ["Bitcoin", "Ethereum","Cardano","Polkadot","COSMOS","GameFi","NFT"],
-  "系列": ["知识学习系列", "观点分享系列", "操作技巧系列", "安全知识系列", "PoS质押教程", "链上应用系列", "产品开箱测评"],
+  "生态": ["Bitcoin", "Ethereum","Cardano","Polkadot","COSMOS","Solana","GameFi","NFT"],
+  "系列": ["知识学习系列", "观点分享系列", "操作技巧系列", "安全知识系列", "PoS质押教程", "链上应用系列", "产品开箱测评", "社区资源系列"],
   "标签": ["无时效性", "热门视频", "试听课"]
 };
   
@@ -33,5 +33,25 @@ const videos = [
   { title: "什么是真正的冷钱包？Ledger和Trezor可以互相导入吗？链接热钱包是怎么回事？", url: "5GKUXLEH5aA", tags: ["安全知识系列","无时效性"] },
   { title: "ADA的质押收益为什么下降？Cardano质押收益的组成详解，APY下降的原因是什么？", url: "NlrfsyBjulw", tags: ["Cardano","知识学习系列","PoS质押教程"] },
   { title: "山寨币牛市来临！谈谈我对于币圈的财富自由的想法", url: "YYzQu__do5s", tags: ["观点分享系列","无时效性"] },
-  { title: "牛市赢麻了！我可以辞职炒币吗？", url: "dVqlBaXvCI0", tags: ["观点分享系列","无时效性"] }
+  { title: "牛市赢麻了！我可以辞职炒币吗？", url: "dVqlBaXvCI0", tags: ["观点分享系列","无时效性"] },
+  { title: "盘点潜在的“以太坊杀手”！谁是应用型公链的王者？", url: "_q3JZtCbn8Y", tags: ["Ethereum","Cardano","Polkadot","COSMOS","Solana","观点分享系列"] },
+  { title: "大懒猫的biglazycat.com网站上线！教学、矿池、代币、商城、社群等版块信息汇聚", url: "cf9QKEEAmkg", tags: ["社区资源系列"] },
+  { title: "用Keplr钱包质押Atom代币教程，COSMOS质押年化收益率14%~15%", url: "3oE3BySypus", tags: ["COSMOS","PoS质押教程"] },
+  { title: "揭露一种最近常见的骗局，Youtube评论区“不小心”泄露的助记词", url: "vK-sLlNe9BQ", tags: ["安全知识系列"] },
+  { title: "补充教程：Cardano链上治理投票，选择DRep教程之 Yoroi 版演示", url: "yDfGMLKCriU", tags: ["Cardano","操作技巧系列"] },
+  { title: "Cardano链上治理开启，如何选择DRep？", url: "W-KURtbH0xE", tags: ["Cardano","操作技巧系列"] },
+  { title: "COSMOS冷钱包质押教程，年化收益15%的多链之王，如何用Ledger钱包质押Atom代币？", url: "UEM7JgbqgHc", tags: ["COSMOS","PoS质押教程"] },
+  { title: "要如何区分PoS官方质押和第三方质押？学会区分二者对于保护本金至关重要！", url: "9ESI1aeWf6k", tags: ["知识学习系列","无时效性"] },
+  { title: "Project Catalyst投票全程演示", url: "T0EuU4Nw0lI", tags: ["Cardano","链上应用系列"] },
+  { title: "Solana质押教程，如何使用冷钱包Ledger进行Solana的质押？", url: "MxhdIqWyyNQ", tags: ["Solana","PoS质押教程"] },
+  { title: "以太坊EVM上的零元转账钓鱼（Zero Transaction Scam）详解。", url: "vuEvrF8mdRc", tags: ["Ethereum","安全知识系列"] },
+  { title: "大懒猫ADA矿池福利汇总，还没有领取的兄弟姐妹请尽快来领取！", url: "GChoaPMwjpE", tags: ["社区资源系列"] },
+  { title: "Cardano Project Catalyst注册演示教程", url: "re2W8I6sRd8", tags: ["Cardano","链上应用系列"] },
+  { title: "Project Catalyst（Cardano催化剂项目）是什么？", url: "dgImEIVZSbw", tags: ["Cardano","链上应用系列"] },
+  { title: "Trezor冷钱包质押ADA教程，如何使用Trezor来质押ADA？", url: "ORfxUdSA2M0", tags: ["Cardano","PoS质押教程"] },
+  { title: "Cardano质押教程，如何使用Ledger冷钱包来直接质押Cardano？", url: "WepN8Z-LPnU", tags: ["Cardano","PoS质押教程","热门视频"] },
+  { title: "代幣ICO：無中生有的魔法 ——《大懒猫币圈投资安全指南》试听课之五", url: "LeYzPa_I77w", tags: ["安全知识系列","试听课"] },
+  { title: "为什么我要自己做节点来质押以太坊？为什么不选择Lido，Kiln等第三方机构的质押服务？", url: "p9Ep3ckthL0", tags: ["Ethereum","PoS质押教程"] },
+  { title: "以太坊自建节点一年365天收益数据分享，大懒猫的以太坊节点收益数据大公开", url: "BxOH4a0xL3U", tags: ["Ethereum","PoS质押教程","热门视频"] },
+  { title: "Not your keys, not your coins ! ——《大懒猫币圈投资安全指南》试听课之四", url: "9mool-UNJXc", tags: ["安全知识系列","试听课"] }
 ];
