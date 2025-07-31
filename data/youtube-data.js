@@ -1,7 +1,7 @@
 const categoryMap = {
   "生态": ["Bitcoin", "Ethereum","Cardano","Polkadot","COSMOS","Solana","GameFi","NFT"],
   "系列": ["知识学习系列", "观点分享系列", "操作技巧系列", "安全知识系列", "PoS质押教程", "链上应用系列", "产品开箱测评", "社区资源系列"],
-  "标签": ["无时效性", "热门视频", "试听课", "古早视频"]
+  "标签": ["无时效性", "热门视频", "试听课"]
 };
   
 const videos = [
@@ -83,12 +83,16 @@ const videos = [
   { title: "波卡Polkadot加入提名者矿池质押挖矿教学视频，年化收益18% ", url: "R89ULpmipq0", tags: ["Polkadot","PoS质押教程"] },
   { title: "Ledger硬件钱包如何连接Metamask？冷钱包如何连接小狐狸钱包参与以太坊上的应用生态？", url: "0nqkAEjm_DY", tags: ["Ethereum","操作技巧系列"] },
   { title: "NFT是资金盘吗？为什么有的NFT项目可以暴涨百倍？读懂百倍NFT项目的背后逻辑", url: "wPpPyk5uRBw", tags: ["NFT","观点分享系列"] },
-  { title: "(旧版)COSMOS质押挖矿手把手演示教程，Atom币质押挖矿教程，如何质押挖矿Atom? ", url: "5Swr8zHjJtY", tags: ["COSMOS","PoS质押教程"] },
   { title: "冷钱包ledger链接Yoroi质押ADA挖矿教程，如何使用硬件钱包ledger关联Yoroi进行Cardano的质押？", url: "1ULgqwQcI84", tags: ["Cardano","PoS质押教程","热门视频"] },
-  { title: "显卡挖矿的兄弟们，我的RTX3070、3080的显卡有新用途了", url: "HDlG7QZkRjg", tags: ["古早视频"] },
-  { title: "什么是加密货币钱包？一个视频认识所有加密货币钱包", url: "NZcJNQecovA", tags: ["知识学习系列","古早视频"] },
-  { title: "从“FTX”的陨落看中心化交易所的“七宗罪”，中心化交易所应不应该存在？", url: "vyY4_Wjh-FA", tags: ["观点分享系列","古早视频"] },
-  { title: "比特币能做到，其它资产做不到的5件事，比特币属于什么资产？为什么要投资比特币？", url: "y15aips8lSY", tags: ["Bitcoin","观点分享系列","古早视频"] },
+  { title: "什么是加密货币钱包？一个视频认识所有加密货币钱包", url: "NZcJNQecovA", tags: ["知识学习系列"] },
+  { title: "从“FTX”的陨落看中心化交易所的“七宗罪”，中心化交易所应不应该存在？", url: "vyY4_Wjh-FA", tags: ["观点分享系列"] },
+  { title: "比特币能做到，其它资产做不到的5件事，比特币属于什么资产？为什么要投资比特币？", url: "y15aips8lSY", tags: ["Bitcoin","观点分享系列"] },
   { title: "Cardano质押挖矿最佳方案，ADA质押快速上手教程，Yoroi钱包质押ADA演示教程", url: "2zZIaKDFDOs", tags: ["Cardano","PoS质押教程","热门视频"] },
-  { title: "大懒猫Discord群开通了！欢迎所有爱好加密货币、爱好区块链技术的朋友们加入", url: "b0K1qaKHdvQ", tags: ["社区资源系列"] }
+  { title: "大懒猫Discord群开通了！欢迎所有爱好加密货币、爱好区块链技术的朋友们加入", url: "b0K1qaKHdvQ", tags: ["社区资源系列"] },
+  { title: "读懂以太坊Gas费，什么是 Gwei？什么是 wei？", url: "E932myMejGY", tags: ["Ethereum","知识学习系列"] },
+  { title: "波卡Polkadot质押演示手把手教学，Polkadot.js进行选择验证者质押教程", url: "dr_HqaaAv6Q", tags: ["Polkadot","PoS质押教程"] },
+  { title: "比特币纸钱包BTC Paper Wallet的生成、存放和提取详解", url: "fEXeWJoiJ58", tags: ["Bitcoin","安全知识系列"] },
+  { title: "Solana质押教程，用Phantom钱包进行SOL的质押", url: "9IS5WN-aJ5E", tags: ["Solana","PoS质押教程"] },
+  { title: "比特币闪电网络节点搭建，手把手教程，Umbrel闪电网络节点", url: "_YX_J_50iaQ", tags: ["Bitcoin","操作技巧系列"] },
+  { title: "比特币闪电网络 BTC Lightning Network 到底是什么东西？", url: "4-yVGdq79NI", tags: ["Bitcoin","知识学习系列"] }
 ];
