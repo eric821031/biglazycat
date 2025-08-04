@@ -10,6 +10,7 @@ const categoryMap = {
 };
   
 const videos = [
+  { title: "Ledger链接ADA热钱包（Eternl，Yoroi），提取质押收益，选择DRep教程", url: "bNPRZkuWqJA", tags: ["Cardano","操作技巧系列"] },
   { title: "什么是以太坊域名系统（ENS）？如何申请.eth域名？", url: "EColvHxS2QA", tags: ["Ethereum","知识学习系列","链上应用系列"] },
   { title: "波卡DOT质押的两种方式，如何获取最高质押收益？", url: "4aeCrO6lqc0", tags: ["Polkadot","PoS质押教程"] },
   { title: "什么是隐私链？即将上线的Midnight，隐私匿名资产XMR门罗币，他们都是做什么用的？", url: "1J3zwftYLPo", tags: ["Cardano","知识学习系列"] },
