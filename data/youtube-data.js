@@ -23,7 +23,7 @@ const videos = [
   { title: "COSMOS的IBC Eureka是什么？万链互联的里程碑！", url: "8WgRrvEnUz4", tags: ["COSMOS","技术原理系列"] },
   { title: "冷（热）钱包授权风险！使用Revoke.cash 工具撤销不必要的授权！", url: "7LfbWiqkoa4", tags: ["Ethereum","安全知识系列"] },
   { title: "热钱包质押ADA教程，使用Eternl钱包质押ADA操作演示", url: "sWqibNkpnu8", tags: ["Cardano","PoS质押教程"] },
-  { title: "质押的ADA，如何转移才能损失最小？怎么从热钱包转移到冷钱包？", url: "u85_TCBx8M0", tags: ["Cardano","PoS质押教程"] },
+  { title: "质押的ADA，如何转移才能损失最小？怎么从热钱包转移到冷钱包？", url: "u85_TCBx8M0", tags: ["Cardano","操作技巧系列","PoS质押教程"] },
   { title: "缺点未必是缺点！我对Cosmos的两大问题的看法", url: "Y3DW4IvkObg", tags: ["COSMOS","观点分享系列"] },
   { title: "Bybit被盗15亿事件链上数据分析！从链上可以看到哪些信息，我们从中可以得到什么启示", url: "EPBf-CPeo2s", tags: ["Ethereum","安全知识系列"] },
   { title: "一个视频认识COSMOS，一个价值被低估的生态", url: "DVgI6KolM5g", tags: ["COSMOS"] },
