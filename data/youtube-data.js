@@ -56,7 +56,6 @@ const videos = [
   { title: "大懒猫ADA矿池福利汇总，还没有领取的兄弟姐妹请尽快来领取！", url: "GChoaPMwjpE", tags: ["社区资源系列"] },
   { title: "Cardano Project Catalyst注册演示教程", url: "re2W8I6sRd8", tags: ["Cardano","链上应用系列"] },
   { title: "Project Catalyst（Cardano催化剂项目）是什么？", url: "dgImEIVZSbw", tags: ["Cardano","链上应用系列"] },
-  { title: "Trezor冷钱包质押ADA教程，如何使用Trezor来质押ADA？", url: "ORfxUdSA2M0", tags: ["Cardano","PoS质押教程"] },
   { title: "Cardano质押教程，如何使用Ledger冷钱包来直接质押Cardano？", url: "WepN8Z-LPnU", tags: ["Cardano","PoS质押教程","热门视频"] },
   { title: "代幣ICO：無中生有的魔法 ——《大懒猫币圈投资安全指南》试听课之五", url: "LeYzPa_I77w", tags: ["安全知识系列","试听课"] },
   { title: "为什么我要自己做节点来质押以太坊？为什么不选择Lido，Kiln等第三方机构的质押服务？", url: "p9Ep3ckthL0", tags: ["Ethereum","PoS质押教程"] },
