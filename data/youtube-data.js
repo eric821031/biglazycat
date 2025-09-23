@@ -13,7 +13,7 @@ const videos = [
   { title: "如何把数据放上IPFS！？IPFS客户端的安装与使用，IPFS服务商Pinata平台的免费使用", url: "-e7h5FFfURA", tags: ["操作技巧系列"] },
   { title: "什么是IPFS？币圈，Web3玩家必须要了解的去中心化存储技术！", url: "UkxYATOqUPE", tags: ["知识学习系列"] },
   { title: "Trezor质押ADA教程，链接软件钱包（Yoroi, Eternl）质押和解除质押", url: "ZQQI7Bkir7Y", tags: ["Cardano","PoS质押教程"] },
-  { title: "大懶貓的區塊鏈知識庫！頻道有哪些值得回看的視頻内容？", url: "-QABwsnl1zg", tags: ["社区资源系列"] },
+  { title: "大懒猫的区块链知识库！频道有哪些值得回看的视频内容？", url: "-QABwsnl1zg", tags: ["社区资源系列"] },
   { title: "Ledger链接ADA热钱包（Eternl，Yoroi），提取质押收益，选择DRep教程", url: "bNPRZkuWqJA", tags: ["Cardano","操作技巧系列"] },
   { title: "什么是以太坊域名系统（ENS）？如何申请.eth域名？", url: "EColvHxS2QA", tags: ["Ethereum","知识学习系列","链上应用系列"] },
   { title: "波卡DOT质押的两种方式，如何获取最高质押收益？", url: "4aeCrO6lqc0", tags: ["Polkadot","PoS质押教程"] },
