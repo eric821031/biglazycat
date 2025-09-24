@@ -10,6 +10,7 @@ const categoryMap = {
 };
   
 const videos = [
+  { title: "Onekey冷钱包质押ADA教程，Onekey + Eternl 进行Cardano的质押全程演示", url: "vXgs-f4wgWE", tags: ["Cardano","PoS质押教程"] },
   { title: "如何把数据放上IPFS！？IPFS客户端的安装与使用，IPFS服务商Pinata平台的免费使用", url: "-e7h5FFfURA", tags: ["操作技巧系列"] },
   { title: "什么是IPFS？币圈，Web3玩家必须要了解的去中心化存储技术！", url: "UkxYATOqUPE", tags: ["知识学习系列"] },
   { title: "Trezor质押ADA教程，链接软件钱包（Yoroi, Eternl）质押和解除质押", url: "ZQQI7Bkir7Y", tags: ["Cardano","PoS质押教程"] },
