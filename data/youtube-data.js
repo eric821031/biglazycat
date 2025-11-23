@@ -10,7 +10,8 @@ const categoryMap = {
 };
   
 const videos = [
-  { title: "小伙伴的几万ADA被盗经过！大懒猫给小伙伴们的几点币圈资产安全的忠告！", url: "JpEMSQ1vOho", tags: ["安全知识系列"] },
+  { title: "用Ledger冷钱包直接质押Polkadot演示教程，为什么有的人收益更高？！", url: "iA0i0LVn-nI", tags: ["Polkadot","PoS质押教程"] },
+  { title: "小伙伴的几万ADA被盗经过！大懒猫给小伙伴们的几点币圈资产安全的忠告！", url: "JpEMSQ1vOho", tags: ["热门视频","安全知识系列"] },
   { title: "Onekey冷钱包质押ADA教程，Onekey + Eternl 进行Cardano的质押全程演示", url: "vXgs-f4wgWE", tags: ["Cardano","PoS质押教程"] },
   { title: "如何把数据放上IPFS！？IPFS客户端的安装与使用，IPFS服务商Pinata平台的免费使用", url: "-e7h5FFfURA", tags: ["操作技巧系列"] },
   { title: "什么是IPFS？币圈，Web3玩家必须要了解的去中心化存储技术！", url: "UkxYATOqUPE", tags: ["知识学习系列"] },
