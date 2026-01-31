@@ -10,7 +10,9 @@ const categoryMap = {
 };
   
 const videos = [
-  { title: "针对币圈富豪的绑架勒索案件常常发生！加密富豪应该如何保护自己的人身安全？", url: "4L3LKeQvoxs", tags: ["安全知识系列"] },
+  { title: "Ledger冷钱包参与Polkadot提名者矿池质押教程，小仓位DOT也可以参与的波卡质押方式", url: "qOWend8kK_A", tags: ["Polkadot","PoS质押教程"] },
+  { title: "Youtube频道主题曲——《大懒猫挖矿之歌》", url: "NWH7CcqcoGw", tags: ["社区资源系列"] },
+  { title: "针对币圈富豪的绑架勒索案件常常发生！加密富豪应该如何保护自己的人身安全？", url: "4L3LKeQvoxs", tags: ["安全知识系列","懒猫推荐"] },
   { title: "用Ledger冷钱包直接质押Polkadot演示教程，为什么有的人收益更高？！", url: "iA0i0LVn-nI", tags: ["Polkadot","PoS质押教程"] },
   { title: "小伙伴的几万ADA被盗经过！大懒猫给小伙伴们的几点币圈资产安全的忠告！", url: "JpEMSQ1vOho", tags: ["热门视频","安全知识系列"] },
   { title: "Onekey冷钱包质押ADA教程，Onekey + Eternl 进行Cardano的质押全程演示", url: "vXgs-f4wgWE", tags: ["Cardano","PoS质押教程"] },
