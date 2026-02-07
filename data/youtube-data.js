@@ -10,6 +10,7 @@ const categoryMap = {
 };
   
 const videos = [
+  { title: "盘点容易错过质押收益的代币，原来这些币也可以质押获取收益？", url: "jiQq0LtPH9M", tags: ["PoS质押教程"] },
   { title: "Ledger冷钱包参与Polkadot提名者矿池质押教程，小仓位DOT也可以参与的波卡质押方式", url: "qOWend8kK_A", tags: ["Polkadot","PoS质押教程"] },
   { title: "Youtube频道主题曲——《大懒猫挖矿之歌》", url: "NWH7CcqcoGw", tags: ["社区资源系列"] },
   { title: "针对币圈富豪的绑架勒索案件常常发生！加密富豪应该如何保护自己的人身安全？", url: "4L3LKeQvoxs", tags: ["安全知识系列","懒猫推荐"] },
