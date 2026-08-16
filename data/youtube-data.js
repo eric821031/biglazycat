@@ -10,6 +10,15 @@ const categoryMap = {
 };
   
 const videos = [
+  { title: "Cardano还可以这样进行质押！？最牛的Cardano质押方式！？", url: "uFSAxZMd7z4", tags: ["Cardano","PoS质押教程", "链上应用系列", "社区资源系列"] },
+  { title: "ColdCard 冷钱包为何被盗？认清助记词的真面目，如何 DIY 自己的助记词？", url: "ipE8RKj4lII", tags: ["Bitcoin","安全知识系列"] },
+  { title: "Yoroi / SecondFi 被骇事件非官方研究报告——大懒猫瞎研究版", url: "HDwKo_oqySA", tags: ["Cardano","安全知识系列"] },
+  { title: "一天暴涨200%的OSMO带来的启示——为什么在币圈中散户是很难赚到钱的？", url: "qW9EPtEhz5M", tags: ["COSMOS","观点分享系列"] },
+  { title: "小额加密货币最方便的交易方式！拒绝跨链桥！拒绝交易所！就用换币平台ChangNOW！", url: "PiYkZeyz6aA", tags: ["操作技巧系列"] },
+  { title: "暴跌下的照妖镜，山寨币的黄金坑！", url: "9CVR5Alm5Rs", tags: ["观点分享系列"] },
+  { title: "助记词卡片面临哪些风险？如何保护助记词卡片？大懒猫的助记词守护者产品开箱。", url: "oGCnsVA2N_Q", tags: ["安全知识系列", "产品开箱测评"] },
+  { title: "手搓了一个加密货币直付电商平台，直接用Metamask，OKX，Eternl支付", url: "roooAlEyfQY", tags: ["社区资源系列"] },
+  { title: "山寨币熊市过冬大考验！什么样的山寨币容易归零？有几个重要指标？", url: "r5UZBwZsFpI", tags: ["观点分享系列"] },
   { title: "盘点容易错过质押收益的代币，原来这些币也可以质押获取收益？", url: "jiQq0LtPH9M", tags: ["PoS质押教程"] },
   { title: "Ledger冷钱包参与Polkadot提名者矿池质押教程，小仓位DOT也可以参与的波卡质押方式", url: "qOWend8kK_A", tags: ["Polkadot","PoS质押教程"] },
   { title: "Youtube频道主题曲——《大懒猫挖矿之歌》", url: "NWH7CcqcoGw", tags: ["社区资源系列"] },
